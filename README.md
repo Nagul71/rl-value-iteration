@@ -59,7 +59,7 @@ The algorithm is as follows:
 5. Return the optimal policy and the optimal value function.
 
 ## VALUE ITERATION FUNCTION
-```
+```py
 Developed By :
 Name : NAGUL K
 Reg No : 212222230089
